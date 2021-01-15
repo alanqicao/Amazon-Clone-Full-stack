@@ -54,6 +54,7 @@
   background-color: #cd9042;
 }
 .header__nav {
+  text-decoration: none;
   display: flex;
   justify-content: space-evenly;
 }
