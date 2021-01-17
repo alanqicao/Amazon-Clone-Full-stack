@@ -15,6 +15,14 @@ export const getBasketTotal =(basket)=>
          ...state,
          basket:[...state.basket, action.item]
        };
+
+       case "EMPTY_BASKET":
+
+         return {
+           ...state,
+           basket:[],
+         };
+
        case "REMOVE_FROM_BASKET":
          
            const index= state.basket.findIndex(
