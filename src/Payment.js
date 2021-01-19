@@ -94,7 +94,7 @@ const Payment = () => {
         </h1>
         <div className="payment__section">
           <div className="payment__title">
-            <h3> deliver address</h3>
+            <h3> Deliver address</h3>
           </div>
           <div className="payment__address">
             <p>{user?.email}</p>

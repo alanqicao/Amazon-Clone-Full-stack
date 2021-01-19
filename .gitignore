@@ -25,3 +25,4 @@ yarn-error.log*
 #api
 
 /src/firebase.js
+/src/axios.js
