@@ -9,17 +9,25 @@ Stripe third party money charging system
 
 
 Plugin : 
--React-router-dom
--Material-ui
--react-currency-format
--@stripe/stripe-js    // for payment
--@stripe/react-stripe-js  //for payment
--@moment // for time stamp
+- React-router-dom
+
+- Material-ui
+
+- react-currency-format
+
+- @stripe/stripe-js    // for payment
+
+- @stripe/react-stripe-js  //for payment
+
+- @moment // for time stamp
 
 Backend plugin:
--express
--cors
--stripe
+
+- express
+
+- cors
+
+- stripe
 
 ## Getting Started with Create React App
 
