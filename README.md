@@ -5,7 +5,7 @@ This Amazon Clone has login auth
 
 Full backend store order data and user 
 
-Stripe third party money charging system
+Stripe third party payment system
 
 
 Plugin : 
