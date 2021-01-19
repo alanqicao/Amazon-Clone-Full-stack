@@ -1,5 +1,24 @@
-# This Amazon Clone is for study
+# This Amazon Clone is for fun
 ### Live Demo https://challenge-5bcae.web.app/
+
+This has login auth
+Full backend store order data and user 
+Stripe third party money charging system
+
+
+Plugin : 
+React-router-dom
+Material-ui
+react-currency-format
+@stripe/stripe-js    // for payment
+@stripe/react-stripe-js  //for payment
+@moment // for time stamp
+
+Backend plugin:
+express
+cors
+stripe
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
